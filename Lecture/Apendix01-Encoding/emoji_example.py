@@ -1,15 +1,10 @@
-# print("\U0001f600")
-# print("\N{grinning face}")
-# print("\N{melting face}")
-# print("\N{rolling on the floor laughing}")
+print("\U0001f600")
+print("\N{grinning face}")
+print("\N{melting face}")
+print("\N{rolling on the floor laughing}")
 
-# expressionless_face = "\N{expressionless face}"
-# print(f"expressionless face : {expressionless_face}")
-
-
-# import emoji
-# print(emoji.emojize('Python is :thumbs_up:'))
-# print(emoji.demojize('Python is 👍'))
+expressionless_face = "\N{expressionless face}"
+print(f"expressionless face : {expressionless_face}")
 
 
 import emoji
