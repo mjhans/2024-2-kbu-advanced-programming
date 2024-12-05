@@ -17,7 +17,7 @@ async def spin(msg):
 
 async def slow_function() -> int:  # <7>
     # pretend waiting a long time for I/O
-    await asyncio.sleep(3)
+    await asyncio.sleep(0.2)
     return 42
 
 async def supervisor() -> int:  # <8>
